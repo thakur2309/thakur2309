@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/thakur2309">Alok Thakur</a> 
   </h1>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+
 </div>
 
 <p align='center'>
