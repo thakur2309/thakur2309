@@ -19,7 +19,8 @@
 </div>
 
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=thakur2309.thakur2309"> <img alt="Alok Thakur github" src="https://visitor-badge.glitch.me/badge?page_id=thakur2309.thakur2309"> </a>
+  <a href="https://visitor-badge.glitch.me/badge?page_id=thakur2309.thakur2309"> 
+  </a>
 </p>
 
 <h5 align="center">
@@ -34,12 +35,11 @@
 </p>
 
 - 🥀 Learning Swift & Objective_C  
-- <i>with JavaScript, TypeScript, React and other technologies.</i>  
+- <i>with JavaScript, C++, Python and other technologies.</i>  
 - 🔭 SpaceX FanBoi, die for space😼  
 - 🛸 Into High Energy Physics and Astrophysics  
 - I do fullstack and a bit of everything :heart:  
-- All About living life at its best.
-- 
+- All About living life at its best. 
 ---
 ## 📬 Connect with Me  
 
