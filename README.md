@@ -34,8 +34,8 @@
   <h3>I'm Alok Thakur, Full-Stack developer from India.</h3>
 </p>
 
-- 🥀 Learning Swift & Objective_C  
-- <i>with JavaScript, C++, Python and other technologies.</i>  
+- 🥀 Learning C,   
+- <i>with Java, C++, Python and other technologies.</i>  
 - 🔭 SpaceX FanBoi, die for space😼  
 - 🛸 Into High Energy Physics and Astrophysics  
 - I do fullstack and a bit of everything :heart:  
