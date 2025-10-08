@@ -35,7 +35,7 @@
 </p>
 
 - 🥀 Learning C,   
-- <i>with Java, C++, Python and other technologies.</i>  
+- <i>with Bash, C++, Python and other technologies.</i>  
 - 🔭 SpaceX FanBoi, die for space😼  
 - 🛸 Into High Energy Physics and Astrophysics  
 - I do fullstack and a bit of everything :heart:  
