@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/thakur2309">Alok Thakur</a> 
+  <h1>Hi there, I'm <a href="https://github.com/thakur2309">CYBER KING</a> 
   </h1>
 
 </div>
