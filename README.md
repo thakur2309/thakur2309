@@ -1,42 +1,97 @@
-
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/thakur2309">Alok Thakur</a> 
-  </h1>
-
+  <h1>Hi, I'm Alok Thakur 👨‍💻</h1>
+  <h3>Cyber Security Researcher | Ethical Hacker | Founder of Firewall Breaker</h3>
 </div>
 
-<p align='center'>
-  <a href="https://www.instagram.com/sudo_xploit/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="YouTube"></a>&nbsp;&nbsp;
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp;
-  <a href="mailto:thakuralok210@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.instagram.com/sudo_xploit/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
+    <img src="https://img.shields.io/badge/YouTube-FirewallBreaker-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+    <img src="https://img.shields.io/badge/WhatsApp-Community-green?style=for-the-badge&logo=whatsapp">
+  </a>
 </p>
 
 ---
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Alok Thakur | 💻 Full Stack Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+## 🧠 About Me
+
+I'm **Alok Thakur**, a Cyber Security enthusiast from India 🇮🇳  
+Founder of **Firewall Breaker**, focused on **Ethical Hacking, Security Research and Tool Development**.
+
+I love exploring how systems work, finding vulnerabilities, and building tools for **security research and learning purposes**.
+
+My goal is to build a strong **Cyber Security community** and help beginners learn **ethical hacking in a practical way**.
+
+---
+
+## ⚡ Skills & Technologies
+
+Programming Languages
+
+- Bash
+- C
+- C++
+- Python
+- HTML
+- CSS
+- Java (Learning)
+- Database (Learning)
+
+Operating Systems
+
+- Linux
+- Kali Linux
+- Termux
+
+---
+
+## 🛠 Cyber Security Interests
+
+- Ethical Hacking
+- Penetration Testing
+- OSINT
+- Network Security
+- Security Research
+- Tool Development
+
+---
+
+## 🚀 Projects
+
+Some of my cybersecurity tools:
+
+- **EYESPY** – Camera access & security research tool  
+- **PhoneXtract** – Phone number information gathering tool  
+- **InfoX** – Information gathering toolkit  
+
+More tools coming soon...
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=thakur2309.thakur2309"> 
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=thakur2309&show_icons=true&theme=radical">
 </p>
 
-<h5 align="center">
-  <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-</h5>
+---
 
-<br />
+## 🔥 Firewall Breaker
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3>I'm Alok Thakur, Full-Stack developer from India.</h3>
-</p>
+Cyber Security Education Platform
 
-- 🥀 Learning C,   
-- <i>with Bash, C++, Python and other technologies.</i>  
-- 🔭 SpaceX FanBoi, die for space😼  
+YouTube Channel  
+Ethical Hacking Tutorials  
+Cyber Security Tools  
+Beginner Friendly Labs
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.- 🔭 SpaceX FanBoi, die for space😼  
 - 🛸 Into High Energy Physics and Astrophysics  
 - I do fullstack and a bit of everything :heart:  
 - All About living life at its best. 
