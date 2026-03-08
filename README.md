@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Alok Thakur 👨‍💻</h1>
-  - 👉 [Visit my website](https://firewallbreaker.site)
   <h3>Cyber Security Researcher | Ethical Hacker | Founder of Firewall Breaker</h3>
 </div>
-
 <p align="center">
   <a href="https://www.instagram.com/sudo_xploit/">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram">
