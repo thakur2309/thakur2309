@@ -85,7 +85,7 @@ Some Cyber Security tools developed by me:
 - **PhoneXtract** – Phone number OSINT tool  
 - **PAGASUS-PRO** – Android Device Controlling toolkit  
 
-More tools coming soon..
+More tools coming soon...
 
 ---
 
