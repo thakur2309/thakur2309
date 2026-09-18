@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     Alok Thakur | Firewall Breaker  —  GitHub Profile README
-     Repo name must be: thakur2309  (username/username)
-     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -123,7 +119,7 @@ I enjoy exploring vulnerabilities, learning how systems work, and building tools
 | **📱 Termux & Kali Linux Labs** | **🎓 Beginner-Friendly Learning** |
 
 <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
-  <img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-00ff41?style=for-the-badge&labelColor=0d1117&logo=youtube&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-00ff41?style=for-the-badge&labelColor=0d1117&logo=youtube&logoColor=00ff41"/>
 </a>
 <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
   <img src="https://img.shields.io/badge/Join%20the%20Community-00ff41?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=00ff41"/>
