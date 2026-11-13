@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-label="Connect with Alok Thakur, Firewall Breaker and Rakshak Firewall">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B10"/><stop offset=".55" stop-color="#0B141B"/><stop offset="1" stop-color="#081D1A"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5A8"/><stop offset="1" stop-color="#73FFD4"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#111F27"/><stop offset="1" stop-color="#0A1218"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#18352F" stroke-width="1" opacity=".45"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+ <style>
+ .mono{font-family:'Courier New',monospace} .sans{font-family:Arial,Helvetica,sans-serif}
+ .muted{fill:#8FA3A0} .white{fill:#EAF5F2} .green{fill:#00E5A8}
+ .tiny{font-size:12px;letter-spacing:1.5px} .label{font-size:14px;letter-spacing:2px}
+ .head{font-size:30px;font-weight:700;letter-spacing:1px}
+ .panel{fill:url(#panel);stroke:#24443C;stroke-width:1.3}
+ </style>
+</defs>
+<rect width="1200" height="550" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="550" rx="24" fill="url(#grid)"/>
+<circle cx="1120" cy="45" r="90" fill="#00E5A8" opacity=".055" filter="url(#soft)"/>
+
+<text x="42" y="54" class="mono tiny green">04 / SECURE CHANNEL</text><text x="42" y="94" class="sans white head">CONNECT WITH ME</text>
+<g transform="translate(48 135)">
+ <rect width="1104" height="360" rx="20" class="panel"/>
+ <g transform="translate(50 58)">
+  <circle cx="110" cy="100" r="75" fill="#0C2A20" stroke="#00E5A8" stroke-width="2"/>
+  <path d="M70 104L110 68 150 104V146H70Z" fill="none" stroke="#00E5A8" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M92 112H128M110 94V130" stroke="#00E5A8" stroke-width="5" stroke-linecap="round"/>
+  <text x="110" y="215" text-anchor="middle" class="sans white" font-size="23" font-weight="bold">ALOK THAKUR</text>
+  <text x="110" y="244" text-anchor="middle" class="mono tiny green">FIREWALL BREAKER</text>
+ </g>
+ <g transform="translate(340 52)">
+  <text x="0" y="0" class="mono tiny green">FOLLOW / EXPLORE / COLLABORATE</text>
+  <g class="sans">
+   <rect x="0" y="32" width="310" height="70" rx="10" fill="#101F26" stroke="#2A4C44"/><circle cx="38" cy="67" r="19" fill="#172D38"/><text x="38" y="73" text-anchor="middle" class="white" font-size="18">GH</text><text x="72" y="62" class="white" font-size="18" font-weight="bold">GitHub</text><text x="72" y="84" class="muted" font-size="13">@thakur2309</text>
+   <rect x="335" y="32" width="350" height="70" rx="10" fill="#101F26" stroke="#2A4C44"/><circle cx="373" cy="67" r="19" fill="#172D38"/><text x="373" y="73" text-anchor="middle" class="white" font-size="18">in</text><text x="407" y="62" class="white" font-size="18" font-weight="bold">LinkedIn</text><text x="407" y="84" class="muted" font-size="13">Rakshak Firewall</text>
+   <rect x="0" y="122" width="310" height="70" rx="10" fill="#101F26" stroke="#2A4C44"/><circle cx="38" cy="157" r="19" fill="#2D171B"/><text x="38" y="163" text-anchor="middle" class="white" font-size="17">▶</text><text x="72" y="152" class="white" font-size="18" font-weight="bold">YouTube</text><text x="72" y="174" class="muted" font-size="13">Firewall Breaker</text>
+   <rect x="335" y="122" width="350" height="70" rx="10" fill="#101F26" stroke="#2A4C44"/><circle cx="373" cy="157" r="19" fill="#0D3027"/><text x="373" y="163" text-anchor="middle" class="white" font-size="18">↗</text><text x="407" y="152" class="white" font-size="18" font-weight="bold">Firewall Breaker</text><text x="407" y="174" class="muted" font-size="13">firewallbreaker.site</text>
+   <rect x="0" y="212" width="685" height="70" rx="10" fill="#0D2A22" stroke="#00A77A"/><text x="24" y="253" class="green" font-size="18" font-weight="bold">RAKSHAK FIREWALL</text><text x="260" y="253" class="white" font-size="15">Protecting websites. Building safer infrastructure.</text>
+  </g>
+ </g>
+</g>
+
+</svg>

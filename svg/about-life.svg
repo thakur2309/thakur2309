@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-label="About Alok Thakur, cybersecurity interests and builder philosophy">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B10"/><stop offset=".55" stop-color="#0B141B"/><stop offset="1" stop-color="#081D1A"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5A8"/><stop offset="1" stop-color="#73FFD4"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#111F27"/><stop offset="1" stop-color="#0A1218"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#18352F" stroke-width="1" opacity=".45"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+ <style>
+ .mono{font-family:'Courier New',monospace} .sans{font-family:Arial,Helvetica,sans-serif}
+ .muted{fill:#8FA3A0} .white{fill:#EAF5F2} .green{fill:#00E5A8}
+ .tiny{font-size:12px;letter-spacing:1.5px} .label{font-size:14px;letter-spacing:2px}
+ .head{font-size:30px;font-weight:700;letter-spacing:1px}
+ .panel{fill:url(#panel);stroke:#24443C;stroke-width:1.3}
+ </style>
+</defs>
+<rect width="1200" height="550" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="550" rx="24" fill="url(#grid)"/>
+<circle cx="1120" cy="45" r="90" fill="#00E5A8" opacity=".055" filter="url(#soft)"/>
+
+<text x="42" y="54" class="mono tiny green">01 / OPERATOR PROFILE</text><text x="42" y="94" class="sans white head">ABOUT THE BUILDER</text>
+<rect x="40" y="120" width="560" height="390" rx="16" class="panel"/>
+<rect x="40" y="120" width="560" height="42" rx="16" fill="#12251F"/><path d="M40 162H600" stroke="#24443C"/>
+<circle cx="64" cy="141" r="5" fill="#FF625A"/><circle cx="82" cy="141" r="5" fill="#FFC247"/><circle cx="100" cy="141" r="5" fill="#00D68F"/>
+<text x="124" y="146" class="mono tiny muted">alok@firewallbreaker:~</text>
+<g class="mono" font-size="16">
+ <text x="70" y="207" class="green">$ whoami</text><text x="70" y="235" class="white">Alok Thakur</text>
+ <text x="70" y="281" class="green">$ focus --current</text><text x="70" y="309" class="white">Cybersecurity / Web Defense / Linux</text>
+ <text x="70" y="355" class="green">$ mission</text><text x="70" y="383" class="white">Build practical security products</text><text x="70" y="408" class="white">and make cyber learning accessible.</text>
+ <text x="70" y="456" class="green">$ status</text><text x="170" y="456" class="white">Always learning<span fill="#00E5A8">_</span></text>
+</g>
+<rect x="630" y="120" width="530" height="180" rx="16" class="panel"/>
+<text x="660" y="160" class="mono tiny green">CORE INTERESTS</text>
+<g class="sans">
+ <rect x="660" y="182" width="210" height="42" rx="8" fill="#102820" stroke="#23634F"/><text x="678" y="208" class="white" font-size="15">◈ Web Application Security</text>
+ <rect x="890" y="182" width="240" height="42" rx="8" fill="#102820" stroke="#23634F"/><text x="908" y="208" class="white" font-size="15">⌘ Ethical Hacking</text>
+ <rect x="660" y="238" width="210" height="42" rx="8" fill="#102820" stroke="#23634F"/><text x="678" y="264" class="white" font-size="15">⌁ Linux &amp; Networking</text>
+ <rect x="890" y="238" width="240" height="42" rx="8" fill="#102820" stroke="#23634F"/><text x="908" y="264" class="white" font-size="15">⬡ SaaS Security</text>
+</g>
+<rect x="630" y="320" width="530" height="190" rx="16" class="panel"/>
+<text x="660" y="360" class="mono tiny green">BUILD PHILOSOPHY</text>
+<g transform="translate(668 390)">
+ <circle cx="35" cy="35" r="29" fill="none" stroke="#1C493D" stroke-width="7"/><path d="M35 6A29 29 0 1 1 9 48" fill="none" stroke="#00E5A8" stroke-width="7" stroke-linecap="round"/>
+ <text x="82" y="29" class="white sans" font-size="17" font-weight="bold">Learn by building</text><text x="82" y="52" class="muted sans" font-size="14">Hands-on labs, experiments and products</text>
+ <path d="M82 72H460" stroke="#24443C"/>
+ <text x="82" y="104" class="white sans" font-size="17" font-weight="bold">Security with responsibility</text><text x="82" y="127" class="muted sans" font-size="14">Authorized testing. Defensive mindset.</text>
+</g>
+
+</svg>

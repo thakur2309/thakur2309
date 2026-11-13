@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Alok Thakur cybersecurity developer hero banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B10"/><stop offset=".55" stop-color="#0B141B"/><stop offset="1" stop-color="#081D1A"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5A8"/><stop offset="1" stop-color="#73FFD4"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#111F27"/><stop offset="1" stop-color="#0A1218"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#18352F" stroke-width="1" opacity=".45"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+ <style>
+ .mono{font-family:'Courier New',monospace} .sans{font-family:Arial,Helvetica,sans-serif}
+ .muted{fill:#8FA3A0} .white{fill:#EAF5F2} .green{fill:#00E5A8}
+ .tiny{font-size:12px;letter-spacing:1.5px} .label{font-size:14px;letter-spacing:2px}
+ .head{font-size:30px;font-weight:700;letter-spacing:1px}
+ .panel{fill:url(#panel);stroke:#24443C;stroke-width:1.3}
+ </style>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="1120" cy="45" r="90" fill="#00E5A8" opacity=".055" filter="url(#soft)"/>
+
+<g opacity=".7" stroke="#1E5144" fill="none"><path d="M0 340L250 210 420 260 660 110 850 170 1200 20"/><path d="M0 360L260 230 440 280 680 130 870 190 1200 40" opacity=".4"/></g>
+<g transform="translate(52 42)">
+ <rect width="1096" height="306" rx="18" fill="#091218" stroke="#285247"/>
+ <path d="M0 18Q0 0 18 0H1078Q1096 0 1096 18V42H0Z" fill="#10231F"/>
+ <circle cx="24" cy="21" r="5" fill="#FF5F57"/><circle cx="44" cy="21" r="5" fill="#FEBC2E"/><circle cx="64" cy="21" r="5" fill="#28C840"/>
+ <text x="92" y="26" class="mono tiny muted">FIREWALL-BREAKER / PROFILE.SYS</text>
+ <text x="1028" y="26" text-anchor="end" class="mono tiny green">SYSTEM ONLINE ●</text>
+</g>
+<g transform="translate(92 126)">
+ <text x="0" y="0" class="mono tiny green">[ CYBERSECURITY DEVELOPER · INDIA ]</text>
+ <text x="0" y="76" class="sans white" font-size="66" font-weight="800">ALOK THAKUR</text>
+ <rect x="0" y="96" width="540" height="3" rx="2" fill="url(#accent)"/>
+ <text x="0" y="139" class="sans white" font-size="23">Ethical Hacking Educator  /  SaaS Builder</text>
+ <text x="0" y="174" class="mono muted" font-size="15">I BUILD SECURITY TOOLS, SHARE KNOWLEDGE &amp; DEFEND THE WEB.</text>
+ <g transform="translate(0 211)">
+  <rect width="148" height="32" rx="6" fill="#0D2A23" stroke="#00E5A8"/><text x="74" y="21" text-anchor="middle" class="mono green" font-size="12">WEB SECURITY</text>
+  <rect x="160" width="148" height="32" rx="6" fill="#0D2A23" stroke="#00E5A8"/><text x="234" y="21" text-anchor="middle" class="mono green" font-size="12">LINUX / NETWORKS</text>
+  <rect x="320" width="148" height="32" rx="6" fill="#0D2A23" stroke="#00E5A8"/><text x="394" y="21" text-anchor="middle" class="mono green" font-size="12">PRODUCT BUILDER</text>
+ </g>
+</g>
+<g transform="translate(850 105)">
+ <circle cx="130" cy="112" r="104" fill="#00E5A8" opacity=".05" filter="url(#glow)"/>
+ <path d="M130 12L222 48V122C222 188 180 231 130 254 80 231 38 188 38 122V48Z" fill="#0B211C" stroke="#00E5A8" stroke-width="3"/>
+ <path d="M130 38L197 64V121C197 171 167 205 130 225 93 205 63 171 63 121V64Z" fill="none" stroke="#3E9F83" stroke-width="2"/>
+ <path d="M95 128L119 152 169 96" fill="none" stroke="#00E5A8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+ <text x="130" y="282" text-anchor="middle" class="mono tiny green">DEFENSE IN DEPTH</text>
+</g>
+
+</svg>
