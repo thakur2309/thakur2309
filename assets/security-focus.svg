@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190">
-<rect width="1100" height="190" rx="16" fill="#0D1117" stroke="#263B36"/>
-<g font-family="Arial,sans-serif" text-anchor="middle">
-<g transform="translate(25 30)"><rect width="245" height="130" rx="12" fill="#101D19" stroke="#00E5A8"/><text x="122" y="48" fill="#00E5A8" font-size="17" font-weight="bold">WEB SECURITY</text><text x="122" y="78" fill="#C9D1D9" font-size="14">Application defense</text><text x="122" y="101" fill="#8B949E" font-size="12">HTTP • OWASP • Hardening</text></g>
-<g transform="translate(295 30)"><rect width="245" height="130" rx="12" fill="#101D19" stroke="#00E5A8"/><text x="122" y="48" fill="#00E5A8" font-size="17" font-weight="bold">ETHICAL HACKING</text><text x="122" y="78" fill="#C9D1D9" font-size="14">Authorized testing</text><text x="122" y="101" fill="#8B949E" font-size="12">Labs • Recon • Validation</text></g>
-<g transform="translate(565 30)"><rect width="245" height="130" rx="12" fill="#101D19" stroke="#00E5A8"/><text x="122" y="48" fill="#00E5A8" font-size="17" font-weight="bold">LINUX &amp; NETWORKS</text><text x="122" y="78" fill="#C9D1D9" font-size="14">Systems fundamentals</text><text x="122" y="101" fill="#8B949E" font-size="12">Kali • Termux • TCP/IP</text></g>
-<g transform="translate(835 30)"><rect width="245" height="130" rx="12" fill="#101D19" stroke="#00E5A8"/><text x="122" y="48" fill="#00E5A8" font-size="17" font-weight="bold">SECURITY BUILDING</text><text x="122" y="78" fill="#C9D1D9" font-size="14">Tools &amp; SaaS products</text><text x="122" y="101" fill="#8B949E" font-size="12">Detection • Logging • APIs</text></g>
-</g></svg>
