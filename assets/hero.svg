@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07110F"/><stop offset=".55" stop-color="#0B1715"/><stop offset="1" stop-color="#101B25"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5A8" stop-opacity="0"/><stop offset=".5" stop-color="#00E5A8"/><stop offset="1" stop-color="#00E5A8" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#1B3932" stroke-width="1" opacity=".55"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<path d="M0 310L300 240 480 285 720 170 930 220 1200 90" fill="none" stroke="#00E5A8" stroke-width="1.5" opacity=".12"/>
+<g fill="#00E5A8" opacity=".7"><circle cx="1010" cy="76" r="2"/><circle cx="1080" cy="144" r="2"/><circle cx="930" cy="290" r="2"/><circle cx="1120" cy="300" r="2"/></g>
+<g transform="translate(910 60)" filter="url(#glow)" opacity=".9"><path d="M95 0L175 30V105C175 165 137 210 95 230 53 210 15 165 15 105V30Z" fill="#0C211C" stroke="#00E5A8" stroke-width="3"/><path d="M95 35L140 52V105C140 143 119 171 95 187 71 171 50 143 50 105V52Z" fill="none" stroke="#00E5A8" stroke-width="2" opacity=".7"/><path d="M75 111L91 127 120 88" fill="none" stroke="#00E5A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="78" y="85" fill="#00E5A8" font-family="monospace" font-size="16" letter-spacing="5">CYBERSECURITY • DEVELOPMENT • RESEARCH</text>
+<text x="74" y="166" fill="#F0F6FC" font-family="Arial, sans-serif" font-size="64" font-weight="700">ALOK THAKUR</text>
+<rect x="78" y="192" width="520" height="2" fill="url(#line)"/>
+<text x="80" y="238" fill="#C9D1D9" font-family="Arial, sans-serif" font-size="24">Cybersecurity Developer &amp; Ethical Hacking Educator</text>
+<text x="80" y="281" fill="#8B949E" font-family="monospace" font-size="17">Building security tools • Sharing knowledge • Securing the web</text>
+<text x="80" y="345" fill="#00E5A8" font-family="monospace" font-size="14">[ ACCESS GRANTED ]  //  STAY CURIOUS. STAY SECURE.</text>
+<circle cx="1120" cy="345" r="5" fill="#00E5A8" filter="url(#glow)"/>
+</svg>
