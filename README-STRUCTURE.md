@@ -1,1 +1,0 @@
-The README is deliberately arranged like the reference profile: Hero SVG → About SVG → Stack SVG → Featured Projects table → ID/Dashboard SVG → GitHub stats → Connect SVG → 3D Contribution City → Snake Animation.
