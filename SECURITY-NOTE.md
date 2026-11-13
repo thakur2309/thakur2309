@@ -1,0 +1,1 @@
+All cybersecurity learning and testing referenced in this profile is intended for systems you own or have explicit permission to assess. Keep public project descriptions accurate and do not imply certifications, employment, or capabilities you do not hold.

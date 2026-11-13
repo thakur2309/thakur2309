@@ -1,181 +1,161 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=230&section=header&text=ALOK%20THAKUR&fontSize=64&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Founder%20of%20Firewall%20Breaker&descSize=17&descAlignY=60&descColor=c9d1d9" width="100%" alt="Alok Thakur banner"/>
-
-<a href="https://github.com/thakur2309">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%3E+whoami+%E2%86%92+Alok+Thakur;%3E+role+%E2%86%92+Ethical+Hacker+%26+Security+Researcher;%3E+building+%E2%86%92+Cyber+Security+Tools;%3E+teaching+%E2%86%92+Beginner-Friendly+Hacking+Labs;%3E+status+%E2%86%92+Hack.+Learn.+Secure." alt="Typing animation"/>
-</a>
+<img src="assets/hero.svg" width="100%" alt="Alok Thakur — Cybersecurity Developer"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thakur2309&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/thakur2309?style=for-the-badge&logo=github&color=00ff41&labelColor=0d1117&logoColor=00ff41" alt="Followers"/>
-<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-00ff41?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-
-<br/><br/>
-
-<a href="https://www.instagram.com/sudo_xploit/">
-  <img src="https://img.shields.io/badge/Instagram-@sudo__xploit-00ff41?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0d1117"/>
-</a>
-<a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
-  <img src="https://img.shields.io/badge/YouTube-Firewall%20Breaker-00ff41?style=for-the-badge&logo=youtube&logoColor=00ff41&labelColor=0d1117"/>
-</a>
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-Community-00ff41?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117"/>
-</a>
-<a href="mailto:businessfirewall@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/>
-</a>
+[![Website](https://img.shields.io/badge/WEBSITE-firewallbreaker.site-00E5A8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.firewallbreaker.site)
+[![Rakshak Firewall](https://img.shields.io/badge/PRODUCT-Rakshak%20Firewall-00E5A8?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.rakshakfirewall.com)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-Firewall%20Breaker-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FirewallBreaker09)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rakshak%20Firewall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rakshak-firewall/)
 
 </div>
 
 ---
 
-## `>_` root@firewall-breaker:~# cat about.txt
+## `whoami`
 
 ```bash
-┌──(alok㉿firewall-breaker)-[~]
-└─$ whoami
-   Alok Thakur — Cyber Security enthusiast from India 🇮🇳
+alok@firewall-breaker:~$ whoami
+Alok Thakur
 
-┌──(alok㉿firewall-breaker)-[~]
-└─$ cat mission.txt
-   Help beginners learn Ethical Hacking in a practical, hands-on way.
+alok@firewall-breaker:~$ role
+Cybersecurity Developer • Ethical Hacking Educator • SaaS Builder
 
-┌──(alok㉿firewall-breaker)-[~]
-└─$ ls focus/
-   ethical-hacking/   security-research/   tool-development/   beginner-labs/
+alok@firewall-breaker:~$ mission
+Making practical cybersecurity knowledge and website security tools
+more accessible to developers, startups, and learners.
 
-┌──(alok㉿firewall-breaker)-[~]
-└─$ echo $MOTTO
-   Stay Curious. Stay Secure.
+alok@firewall-breaker:~$ motto
+"Build securely. Learn continuously. Stay curious."
 ```
 
-I enjoy exploring vulnerabilities, learning how systems work, and building tools for **security research and educational purposes**.
+I'm an India-based cybersecurity enthusiast and developer focused on practical security, ethical hacking education, Linux environments, and building useful security products. I enjoy turning security concepts into hands-on learning experiences and tools that help people understand and improve their website security.
 
----
+## `./flagship-projects`
 
-## `>_` ./skills --languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,linux,git,github&theme=dark" alt="Skills"/>
-</div>
+### <a href="https://www.rakshakfirewall.com">RAKSHAK FIREWALL</a>
 
----
+<img src="assets/rakshak-card.svg" width="100%" alt="Rakshak Firewall project card"/>
 
-## `>_` ./env --operating-systems
+A website security monitoring and response platform.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-00ff41?style=for-the-badge&logo=kalilinux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Parrot%20OS-00ff41?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-00ff41?style=for-the-badge&logo=ubuntu&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Termux-00ff41?style=for-the-badge&logo=android&logoColor=black"/>
-</div>
+- Request-level traffic visibility
+- Rule-based threat detection
+- Suspicious activity alerts
+- IP block management through supported middleware
+- Website security scanner
+- Team workspaces, reports and API capabilities
 
----
+**Live:** [rakshakfirewall.com](https://www.rakshakfirewall.com)
 
-## `>_` ./toolkit --list
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=00ff41"/>
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analyzer-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=00ff41"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-0d1117?style=for-the-badge&logo=portswigger&logoColor=00ff41&labelColor=00ff41"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Metasploit-Framework-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff41&labelColor=00ff41"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-WiFi%20Security-0d1117?style=for-the-badge&logo=wifi&logoColor=00ff41&labelColor=00ff41"/>
-  <img src="https://img.shields.io/badge/Bluetooth%20Tools-Blue%20Security-0d1117?style=for-the-badge&logo=bluetooth&logoColor=00ff41&labelColor=00ff41"/>
-</div>
+### <a href="https://www.firewallbreaker.site">FIREWALL BREAKER</a>
 
----
+<img src="assets/firewallbreaker-card.svg" width="100%" alt="Firewall Breaker project card"/>
 
-## `>_` ./projects --show-all
+A cybersecurity learning and creator platform focused on practical education.
 
-<div align="center">
+- Ethical hacking learning content
+- Termux and Kali Linux tutorials
+- Beginner-friendly security concepts
+- Practical labs and tool walkthroughs
+- Cybersecurity awareness
 
-| 🛠 Tool | 📄 Description | 🔗 Repo |
-|:--|:--|:--:|
-| **EYESPY** | Camera access research tool | [`view`](https://github.com/thakur2309/EYESPY) |
-| **PhoneXtract** | Phone number OSINT tool | [`view`](https://github.com/thakur2309/PhoneXtract) |
-| **PAGASUS-PRO** | Android device controlling toolkit | [`view`](https://github.com/thakur2309/PAGASUS-PRO) |
+**Live:** [firewallbreaker.site](https://www.firewallbreaker.site)
 
-`[ + ]` More tools coming soon...
+</td>
+</tr>
+</table>
 
-</div>
-
-> ⚠️ **Disclaimer:** All tools and content here are created strictly for **education, research, and authorized security testing**. Only use them on systems and devices you own or have explicit written permission to test. The author is not responsible for any misuse.
-
----
-
-## `>_` ./firewall-breaker --info
+## `./security-focus`
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=520&height=45&lines=FIREWALL+BREAKER;Cyber+Security+Education+Platform" alt="Firewall Breaker"/>
-
-| 📡 Ethical Hacking Tutorials | 🧰 Cyber Security Tools |
-|:--:|:--:|
-| **📱 Termux & Kali Linux Labs** | **🎓 Beginner-Friendly Learning** |
-
-<a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-00ff41?style=for-the-badge&labelColor=0d1117&logo=youtube&logoColor=00ff41"/>
-</a>
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/Join%20the%20Community-00ff41?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=00ff41"/>
-</a>
-
+<img src="assets/security-focus.svg" width="100%" alt="Cybersecurity focus areas"/>
 </div>
 
----
+- **Web Security:** Understanding common web attack patterns and defensive practices.
+- **Ethical Hacking:** Authorized testing, practical labs, and responsible disclosure principles.
+- **Linux & Networking:** Working with Linux environments, command-line tools, and network fundamentals.
+- **Security Tooling:** Building and experimenting with tools for learning and defensive use.
+- **SaaS Security:** Product security, authentication, access control, logging, and operational safeguards.
 
-## `>_` ./github-stats --live
+## `./technology-stack`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thakur2309&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&ring_color=00ff41&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur2309&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" alt="Top languages"/>
+**Languages & scripting**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-1B1F23?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1B1F23?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-<img src="https://streak-stats.demolab.com/?user=thakur2309&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=00ff41&dates=8b949e&border=00ff41" alt="Streak stats"/>
+**Development**
 
-<br/>
+![React](https://img.shields.io/badge/React-1B1F23?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1B1F23?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![FastAPI](https://img.shields.io/badge/FastAPI-1B1F23?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Supabase](https://img.shields.io/badge/Supabase-1B1F23?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-<img src="https://github-profile-trophy.vercel.app/?username=thakur2309&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+**Platforms & tools**
+
+![Linux](https://img.shields.io/badge/Linux-1B1F23?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1B1F23?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Git](https://img.shields.io/badge/Git-1B1F23?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B1F23?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Nmap](https://img.shields.io/badge/Nmap-1B1F23?style=for-the-badge&logo=linux&logoColor=00E5A8)
 
 </div>
 
----
-
-## `>_` ./contributions --snake
+## `./github-activity`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thakur2309/thakur2309/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thakur2309/thakur2309/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/thakur2309/thakur2309/output/github-snake-dark.svg"/>
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thakur2309&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A8&icon_color=00E5A8&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=thakur2309&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur2309&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9" alt="Most used languages"/>
+</div>
 
-## `>_` ./support --contribute
+## `./contribution-graph`
 
-Contributions, issues and feature requests are welcome. 🤝
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thakur2309/thakur2309/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</div>
 
-⭐ If you like my projects, **give them a star** and share them with others.
+## `./connect`
+
+<div align="center">
+  <a href="https://www.firewallbreaker.site"><img src="https://img.shields.io/badge/Firewall_Breaker-Visit_Website-00E5A8?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <a href="https://www.rakshakfirewall.com"><img src="https://img.shields.io/badge/Rakshak_Firewall-Explore_Product-00E5A8?style=for-the-badge&logo=cloudflare&logoColor=black"/></a>
+  <a href="https://www.youtube.com/@FirewallBreaker09"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0033?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/rakshak-firewall/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thakur2309"><img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/></a>
+</div>
 
 ---
 
 <div align="center">
 
-```text
-[ SESSION TERMINATED ]  —  Thanks for visiting. Stay legal. Stay curious.
-```
+<img src="assets/footer.svg" width="100%" alt="Stay curious. Stay secure."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=460&height=30&lines=Made+with+%E2%9D%A4%EF%B8%8F+in+India;Stay+Curious.+Stay+Secure." alt="Footer"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer" width="100%" alt="Footer wave"/>
+<sub>Built with curiosity, code, and a security-first mindset.</sub>
 
 </div>
+
+<!--
+PROFILE SETUP
+1. Create a PUBLIC repository named exactly: thakur2309
+2. Upload README.md, assets/, and .github/ from this package to its root.
+3. Enable GitHub Actions in repository Settings → Actions → General.
+4. The snake workflow generates the contribution animation after the first successful run.
+5. GitHub stats images are served by third-party public services and may occasionally be unavailable.
+-->
